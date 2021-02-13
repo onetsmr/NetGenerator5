@@ -1,0 +1,11 @@
+<Project Sdk="Microsoft.NET.Sdk">
+
+  <PropertyGroup>
+    <TargetFramework>net5.0</TargetFramework>
+  </PropertyGroup>
+
+  <ItemGroup>
+    <ProjectReference Include="..\NetGenerator5.Generator.Dependency\NetGenerator5.Generator.Dependency.csproj" />
+  </ItemGroup>
+
+</Project>
