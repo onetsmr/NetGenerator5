@@ -6,7 +6,7 @@
 3. Access to the main project directory
 4. Access to the settings file
 5. Using third party libraries inside the generator, for example Newtonsoft.Json
-6. Using my other assemblies inside the generator
+6. Using my custom assemblies inside the generator
 7. Access to classes / types of controllers and models located in different assemblies
 8. Debugging
 
