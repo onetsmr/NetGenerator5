@@ -1,6 +1,6 @@
 # NetGenerator5
 
-.NET 5 source generator tutorial. Sshows a solution to some of the problems I faced while using source generator:
+.NET 5 source generator tutorial. Shows a solution to some of the problems I faced while using source generator:
 1. Ability to generate js / vue / jsx files based on C# models and controllers
 2. Project structure - more than one assembly
 3. Access to the main project directory
